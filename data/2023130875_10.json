@@ -1,0 +1,28 @@
+{
+    "student_id": "2023130875",
+    "name": "갈비찜",
+    "image": "images/갈비찜.jpg",
+    "image_prompt": "Here's the recipe for braised short ribs. Please take a realistic picture of Braised Short Ribs. The recipe is as follows: 1) Cut the ribs 1 inch long and boil them.
+    2) Blanch the top of the cow for a while.
+    3) Put the boa, tripe, whole radish, and kelp together and boil them well to take them out.
+    4) Chop radishes into small pieces like tangmu and cut other meat with radishes.
+    5) Cut the kelp into rhombus shapes.
+    6) Chop shiitake and seokyi, too.
+    7) Blanch green onions and water parsley slightly.
+    8) Mix all kinds of seasoning and flour, knead them, and stir-fry them.
+    9) Put some soup in a bowl.
+    10) Boil the eggs and sift them together with the stone.",
+    "ingredients": ["갈비","소 위","부아","곱창","무","다시마","표고","석이","파","미나리","밀가루","계란"],
+    "original": "가리을 잘게 치거리식 잘나 살무 양퇴 것과 부화 곱 통무우 다마 너허 물어게 살마 건져셔 가리 할 졔 무우난 탕무우 쳐로 쎠흐 잣칫 게 쎠흘고 다른 고기도 그로 쎠흘고 다시마난 골 죠각 쳐로 쎠흘어 표고 셕이 버셧 다 쎨여 파 미나리도 잠간 데쳐 너허 가 양념에 가로 셕거 물너 복가 씨되 국물 조곰 잇게 여 그릇 담고 우희 게란 부혀 셕이와 갓치 쳐 어쓰라",
+    "translated": "1) 갈비를 1치 길이씩 잘라 삶는다.
+    2) 소의 위를 잠깐 데친다.
+    3) 부아, 곱창, 통무, 다시마를 같이 넣고 푹 삶아 건져낸다.
+    4) 무는 탕무처럼 잘게 썰고 다른 고기도 무와 같이 썬다.
+    5) 다시마는 마름모 모양으로 썬다.
+    6) 표고와 석이도 썬다.
+    7) 파와 미나리는 살짝 데쳐 넣는다.
+    8) 갖은 양념과 밀가루를 섞어 주무른 후 볶는다.
+    9) 국물을 조금 있게 하여 그릇에 담는다.
+    10) 달걀을 부치고 석이와 같이 채를 쳐서 얹는다.",
+    "source": "수운잡방"
+}

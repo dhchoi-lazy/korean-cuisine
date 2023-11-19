@@ -1,0 +1,18 @@
+{
+    "student_id": "2023130875",
+    "name": "순무김치",
+    "image": "images/순무김치.jpg",
+    "image_prompt": "Here is the recipe for turnip kimchi. Take a realistic picture of the turnip kimchi made according to this recipe: 1) Wash the turnips, spread them out, sprinkle salt, and pickle them for a while.
+    2) Wash pickled radish, sprinkle salt again, and cover with scented candles.
+    3) After 3 days), 2) radish is cut into 3-4 inches and put in a jar.
+    4) Put 2 pieces of salt in a large jar and 1.5 pieces of salt in a small jar.
+    5) When cooked, pour cold water and cook again.",
+    "ingredients": ["무","소금","향초","생수"],
+    "original": "蔓菁極洗，簾上鋪置，下如微雪。 須臾更洗如前下，勿令殘菜，香草盖之，經三日，切三四寸許，甕，大瓮則二升小瓮則一升 半, 熟冷水和注，待熟用。",
+    "translated": "1) 순무를 씻어 펼쳐 놓고 소금을 살살 뿌려 얼마동안 절인다.
+    2) 절인 무를 씻고, 다시 소금을 살살 뿌린 뒤 향초를 덮는다.
+    3) 3일 후 2)의 무를 3-4치 크기로 썰어 항아리에 담는다.
+    4) 큰항아리에는 소금 2되 작은 항아리에는 소금 1.5되를 넣는다.
+    5) 익으면 찬물을 붓고 다시 익힌다.",
+    "source": "수운잡방"
+}
