@@ -1,0 +1,19 @@
+{
+    "student_id": "2022131030",
+    "name": "가지김치",
+    "image": "images/가지김치.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:Pick and wash the eggplant, then mix the persimmon, bran, and flame (roasted salt) together and place in a jar. Add the mixture first, then the eggplant, and fill the jar until it is full. Seal it tightly, cover it with a lid, and bury it in the mud. After five days, if it is ripe, use it. If they are not ripe, bury them again and use them when they are.",
+    "ingredients": [
+        "가지",
+        "감장",
+        "밀기울",
+        "소금",
+        "간장",
+        "진흙"
+        
+    ],
+    "original": "茄子摘取洗之，甘醬只火少許交合缸，先鋪，次鋪茄子，以滿限，堅封，盖以沙鉢泥塗埋馬糞。 待五日熟則用之，未熟則還埋待熟用之.",
+    "translated": "가지를 따서 깨끗이 씻은 다음 감장, 밀기울, 화염(火, 불에 굽운 소금)을 함께 섞어 항아리에 담는다. 먼저 섞은 장을 넣은 다음 가지를 넣고 항아리에 찰 때까지 담는다. 단단히 밀봉하고 사기대접으로 덮은 다음 진흙으로 잘 발라 마분 속에 묻는다. 5일이 지난 후 익으면 사용한다. 익지 않았다면 다시 마분 속에 묻어 익으면 쓴다.",
+    "source": "수운잡방",
+    "comment": " 가지로도 김치를 만들 수 있다는 것을 알 수 있다"
+}

@@ -1,0 +1,16 @@
+{
+    "student_id": "2022131030",
+    "name": "고기국수",
+    "image": "images/고기국수.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:Boil the fatty meat until half-ready, slice it like knife noodles, coat it in flour, and simmer it in miso soup for a few minutes before eating.",
+    "ingredients": [
+        " 고기",
+        "밀가루" 
+        
+        
+    ],
+    "original": "膏肉半熟如切，輪塗末，湯更數沸進之。",
+    "translated": "기름진 고기를 반숙 정도로 삶아 칼 국수처럼 썰고 밀가루를 입혀 된장 풀은 국물에 넣어 몇 소끔 끓인 후 먹는다.",
+    "source": "산가요록",
+    "comment": " 한국은 역시 국수의 민족이다."
+}

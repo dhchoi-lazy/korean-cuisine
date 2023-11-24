@@ -1,0 +1,17 @@
+{
+    "student_id": "2022131030",
+    "name": "더덕자반",
+    "image": "images/더덕자반.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:Remove the thick skin of the doedeok, slit it open and soak it in running water. If there is no running water, change the water from time to time to remove the bitter flavor, steam and cook it, then mix salt, soy sauce, and sesame oil together and dip it in a ceramic bowl. Marinate (in the marinade) overnight. After marinating, take it out and dry it in the sun, add a little black pepper, dip it again, and dry it again. To eat, grill it. ",
+    "ingredients": [
+        "산더덕",
+        "소금",
+        "간장",
+        "참기름"
+        
+    ],
+    "original": "山蔘去皮搗之，流水浸之，無水流數改水，令無苦味，熟蒸。 、、香油交合盛器中，山蔘浸一宿，陽乾。 再浸下胡椒末小許，又乾。 用時炙而進之，夏節尤好。",
+    "translated": "산더덕의 두꺼운 껍질을 제거하고 찧어 흐르는 물에 담근다. 흐르는 물이 없으면 물을 수시로 갈아서 쓴 맛을 없도록 하여 쪄서 익힌 다음 소금, 간장, 참기름을 함께 섞어 도자기 그릇에 담근다. 산더덕을 (양념장에 넣어) 하룻밤 재운다. 재운 산더덕을 꺼내 햇볕에 말린 후 다시 한번 후춧가루를 약간 넣고 담갔다가 다시 말린다. 먹을 때는 구워 먹는다. 여름에 특히 맛이 좋다.",
+    "source": "수운잡방",
+    "comment": "더덕은 농사와 관계없이 산에서 채취할 수 있으니 우리 조상들이 애용했다. 따라서 더덕을 이용한 요리도 많았던 것 같다."
+}
