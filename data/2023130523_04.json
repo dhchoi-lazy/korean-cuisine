@@ -1,7 +1,7 @@
 {
     "student_id": "2023130523",
     "name": "수라화",
-    "image": "images/수라화.png (이미지 파일은 images 폴더에 저장해 주세요. jpg 형식도 가능합니다.)",
+    "image": "images/수라화.png",
     "image_prompt": "AI 이미지 생성에 사용한 프롬프트",
     "ingredients": [
         "밀가루",
