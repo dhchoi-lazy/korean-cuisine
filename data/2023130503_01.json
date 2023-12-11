@@ -1,14 +1,15 @@
 {
-    "student_id": "2022131028",
-    "name": "생강정과",
-    "image": "images/생강정과.png",
-    "image_prompt": "생강을 말려서 만든 다과를 그려줘",
+    "student_name": "2023130503",
+    "name": "맥주",
+    "image": "images/맥주.png",
+    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 맥주를 그려줘 : 맥주잔 옆에 누룩, 멥쌀, 보리도 그려줘",
     "ingredients": [
-        "생강",
-        "꿀물"
+        "멥쌀",
+        "누룩",
+        "보리쌀"
     ],
-    "original": "生薑去皮片割，蜜水久煎，去水，更以全蜜和煎藏用。",
-    "translated": "생강껍질을 제거하여 편을 친다. 다음은 꿀물에 넣어 장 시간 졸인다. 물을 모두 제거하고 새로운 꿀에 넣어 섞어 다시 졸인 후 보관하여 사용하면 된다.",
-    "source": "수운잡방(需雲雜方)",
-    "comment": "여기에 설탕을 묻혀 말려 편강으로 만들 수도 있다. 식감은 쫀득쫀득하다고 한다."
+    "original": "멥쌀 1말을 씻어 담갔다가 곱게 가루내어 찐다. 좋은 누룩 5되에 끓인 물을 조금 섞어 잘 주물러서 항아리에 담는다. 곱게 찧은 보리쌀 4말을 항 아리에 밑술[本酒] 담던 그날 씻어 건진다. 4~5일 지나고 다시 물로 깨끗 이 씻어낸 뒤에 푹 쪄서 뜨거울 때 시루를 옮겨놓고 냉수를 붓는데 한참 지나 식어서 축축해지면 멈춘다. 앞에 빚은 술을 섞어 항아리에 담고 10여 일 뒤에 먹는다. 이 술은 맛과 향이 오래 되어도 변하지 않으므로 따뜻한 계절에 가장 좋다.",
+    "translated": "After washing one mal (about 180g) of glutinous rice, steam it until it becomes soft and powdery. Mix a small amount of good nuruk (fermentation starter) with boiled water and pour it into a jar, then rinse and drain four mal (about 720g) of coarsely ground barley rice. After 4-5 days, rinse it again with clean water and let it cool completely before transferring the clear liquid (called siru) and pouring cold water. When it cools down and becomes damp, stop the process. Mix the previously brewed alcohol and pour it into the jar, then let it sit for about 10 days. This alcohol retains its taste and aroma even after a long time, making it especially enjoyable in warm seasons.",
+    "source": "산가요록",
+    "comment": "조선시대에도 맥주를 만들어 먹었다는 게 꽤나 신기하네요. 지금 시중에서 파는 맥주랑 맛의 차이가 어떻게 나는지 궁금해서 시간 될 때 직접 만들어먹어 보고 싶습니다."
 }
