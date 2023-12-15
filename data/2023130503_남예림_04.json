@@ -1,0 +1,14 @@
+{
+    "student_name": "2023130503",
+    "name": "백죽",
+    "image": "images/백죽.png",
+    "image_prompt": "흰쌀죽(백죽) 그려줘 : 조선시대에서 만들어진 거니까 플레이팅 느낌이 전통스러워야 해",
+    "ingredients": [
+        "멥쌀",
+        "쌀뜨물"
+    ],
+    "original": "멥쌀을 잠깐 씻어서 물을 빼고 다시 씻은 뒤 다시 씻은 쌀뜨물을 함께 솥[鼎]에 붓고 끓이는데 뚜껑을 열어야 한다. 또 끓어 넘치지 않게 한다. 넘치면 불을 끄고 익은 뒤에 먹는데 맛이 매우 좋다.",
+    "translated": "Rinse glutinous rice briefly, drain the water, and then rinse it again. Combine the rinsed glutinous rice with fresh water in a cauldron and bring it to a boil, making sure to leave the lid slightly open. Additionally, be careful not to let it boil over. If it starts to overflow, turn off the heat and let it finish cooking. The dish is particularly delicious when eaten after it has finished cooking.",
+    "source": "산가요록",
+    "comment": "오늘날의 흰쌀죽과 비슷한 느낌이군요."
+}

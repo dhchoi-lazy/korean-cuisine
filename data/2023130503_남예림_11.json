@@ -1,0 +1,16 @@
+{
+    "student_name": "2023130503",
+    "name": "건순채",
+    "image": "images/건순채.png",
+    "image_prompt": "순채를 펴 그 위에 베를 말린 후 그걸 메주와 함께 끓인 요리가 있어 : 조선시대 요리야 : 전통적인 식에 그 요리를 담은 걸 그려줘",
+    "ingredients": [
+        "메주",
+        "마포",
+        "순채",
+        "베"
+    ],
+    "original": "흰 마포에 순채를 펴 놓고 다듬질한 베[搗鍊布]를 그 위에 덮어 말린다. 순채 형체가 보이지 않거든 쓸 때에 적당히 찢어서 물속에 담그면 맑게 비치는 투명한 색을 볼 수 있다. 먼저 메주[豉]를 끓이고 그 베를 함께 넣 고 끓인다. 베를 걷어내고 쓰면 처음과 다름이 없다.",
+    "translated": "Spread finely sliced vegetables on a white hemp cloth, then cover it with a carefully woven hemp cloth and let it dry. If the shape of the vegetables is not visible, tear it slightly when using, and you'll see a clear, transparent color when soaked in water. Boil soybeans first and then add the hemp cloth and continue boiling. Remove the cloth, and when used, it is just as it was at the beginning.",
+    "source": "산가요록",
+    "comment": "순채와 베가 들어간 된장찌개 느낌이겠네요."
+}

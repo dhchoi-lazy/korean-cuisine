@@ -1,0 +1,18 @@
+{
+    "student_name": "2023130503",
+    "name": "장사탕",
+    "image": "images/장사탕.png",
+    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 꿩고기 탕을 그려줘 : 국물 베이스는 된장이고 냉이와 버섯이 보여야 해",
+    "ingredients": [
+        "냉이",
+        "석이버섯",
+        "꿩고기",
+        "노루고기",
+        "계란",
+        "장물"
+    ],
+    "original": "냉이와 석이버섯과 날 꿩고기와 노루고기와 계란을 합하여 장물에 넣어 국을 끓여 쓴다.",
+    "translated": "Combine shepherd's purse, wood ear mushrooms, sliced pheasant meat, venison, and eggs, and cook the mixture in seasoned broth to make a soup.",
+    "source": "산가요록",
+    "comment": "노루고기는 무슨 맛일까요? 무튼 조선시대 사람들은 참 생선을 묾에 빠뜨리는 걸 좋아하셨나 보네요."
+}
