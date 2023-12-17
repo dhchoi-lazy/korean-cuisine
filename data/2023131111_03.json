@@ -1,0 +1,15 @@
+{
+    "student_id": "2023131111",
+    "name": "우무정과",
+    "image": "images/img_03.png",
+    "image_prompt": "Brown Korean jelly treats, photo",
+    "ingredients": [
+        "우무",
+        "꿀",
+        "후추가루"
+    ],
+    "original": "牛毛如例凝者，更湯一鉢，入五合，和胡椒末，待凝，用之。",
+    "translated": "우무(牛毛)는 보통 응고된 것을 다시 끓여낸 국물 1사발에 꿀 5홉을 후춧가루와 섞어 응고되면 쓴다.",
+    "source": "산가요록",
+    "comment": ""
+}
