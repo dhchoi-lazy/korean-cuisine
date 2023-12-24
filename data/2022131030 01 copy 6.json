@@ -1,0 +1,16 @@
+{
+    "student_id": "2022131030",
+    "name": "다시마구이",
+    "image": "images/다시마구이.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:Finely grind some good pine nuts and mix them with vinegar to coat the kelp before grilling.",
+    "ingredients": [
+        "갓",
+        "다시마",
+        "식초"
+        
+    ],
+    "original": "細磨精柏子交醋塗藿火用之.",
+    "translated": "좋은 잣을 곱게 갈아서 식초와 섞어 다시마에 발라 불에 구워내어 사용한다.",
+    "source": "수운잡방",
+    "comment": "다시마를 구어먹기도 한다는 것을 알 수 있다."
+}

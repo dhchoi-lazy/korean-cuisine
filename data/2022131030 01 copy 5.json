@@ -1,0 +1,16 @@
+{
+    "student_id": "2022131030",
+    "name": "지게미김치",
+    "image": "images/지게미김치.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:On the due date, place the sake lees and salt together in a jar. Seal the mouth of the jar with mud. In the summer, pick an eggplant and wipe it clean with a dish towel to remove the water. Bury the eggplant in the mud and when it is ripe, you can eat it.",
+    "ingredients": [
+        "가지",
+        "술지게미",
+        "소금"
+        
+    ],
+    "original": "臘日酒滓交納瓮，泥塗瓮口。 待夏月，茄瓜摘取拭巾令無水氣，深糟缸，待熟用之。 有水氣則生。 雖非臘日不出是月可也。",
+    "translated": "납일에 술지게미와 소금을 함께 항아리에 담는다. 항아리 입구를 진흙으로 발라 봉한다. 여름이 되면 가지를 따서 행주로 깨끗이 닦아서 물기를 제거한다. 가지를 항아리 속 술지게미 속에 깊숙하게 파묻고 익으면 먹어도 된다.만약 가지가 물기가 있으면 벌레가 생긴다. 딱히 납일이 아니더라도 이달을 넘기지 않고 담그면 된다.",
+    "source": "수운잡방",
+    "comment": "정말 김치는 다양한 재료로 만들 수 있다."
+}

@@ -1,0 +1,17 @@
+{
+    "student_id": "2022131030",
+    "name": "일일주",
+    "image": "images/일일주.png",
+    "image_prompt":  "following is the recipe of a Korean dish . show me what it looks like:Mix 3 parts water, 2 parts good leavening yeast, and 1 part good liquor, and place in a leak-proof jar. Wash and steam one grain of white rice several times, and when it is cooked, put it carefully into the jar without stirring, and put it in a warm place before it cools. If you brew in the morning, it will be ready in the evening, and if you brew in the evening, it will mature in the morning.",
+    "ingredients": [
+        "백미",
+        "물",
+        "누룩",
+        "술"
+        
+    ],
+    "original": "水三斗好麴二升好酒一鉢和不津瓮。 白米一斗洗熟蒸，不歇氣，無水聲瓮，亦勿攪之，置溫處 朝釀夕熟夕釀朝熟。",
+    "translated": "물 3말, 좋은 누룩 2되, 좋은 술 1사발을 섞어 물이 새지 않는 항아리에 담는다. 백미 1말을 여러 번 깨끗이 씻어서 쪄서 익힌 다음 식기 전에 물소리가 나지 않게 조심스럽게 항아리에 넣고 젓지도 말고 따스한 곳에 둔다. 아침에 술을 빚으면 저녁에는 완성되고 저녁에 술을 빚으면 아침에 숙성된다.",
+    "source": "수운잡방",
+    "comment": "쌀을 중요시 했던 조선시대에 쌀로 빚은 술이 존재했다는 것이 신기하다."
+}

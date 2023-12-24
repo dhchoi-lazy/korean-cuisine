@@ -1,0 +1,16 @@
+{
+    "student_id": "2022131030",
+    "name": "마늘절임",
+    "image": "images/마늘절임.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:Peel the garlic, wash it thoroughly and then dip the garlic in it. Peeled garlic is white in color and tastes good.",
+    "ingredients": [
+        " 마늘",
+        "소금" 
+        
+        
+    ],
+    "original": "未成熟時採取，去皮洗，正无水氣。沸湯和，不至於，待冷浸之。臨用去皮，色白味善。",
+    "translated": "마늘이아직 여물지 않았을 때 캐서 겉껍질을 벗기고 깨끗이 씻어서 완전히 건조시켜 물기를 없앤다. 끓는 물에 소금을 짜지 않을 정도로 타서 식기를 기다려 마늘을 담근다. 쓸 때에 껍질을 벗기면 색이 하얗고 맛이 좋다.",
+    "source": "산가요록",
+    "comment": " 간단하면서도 유용한 요리이다."
+}

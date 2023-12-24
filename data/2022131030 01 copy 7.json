@@ -1,0 +1,16 @@
+{
+    "student_id": "2022131030",
+    "name": "밀소주",
+    "image": "images/밀소주.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:Wash one roll of wheat, steam it to a fine consistency, and squeeze five grains of good yeast together, put it in a jar, pour in one bucket of cold water, and stir it well. After 5 days, strain the soju.",
+    "ingredients": [
+        "밀",
+        "누룩",
+        "냉수"
+        
+    ],
+    "original": "眞麥一斗洗煇蒸，好麴五升合搗納瓮，冷水一盆注下攪之，第五日燒取酒。四鐥極猛。",
+    "translated": "밀 1말을 깨끗이 씻어 푹 무르게 찌고 좋은 누룩 5되를 함께 찧어서 항아리에 담고 냉수 1동이를 부어 잘 젓는다. 5일이 되면 소주를 고아낸다.",
+    "source": "수운잡방",
+    "comment": "밀로도 소주를 만들 수 있다는 것을 알 수 있다."
+}

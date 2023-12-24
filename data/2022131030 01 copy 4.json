@@ -1,0 +1,17 @@
+{
+    "student_id": "2022131030",
+    "name": "국화주",
+    "image": "images/국화주.png",
+    "image_prompt": "following is the recipe of a Korean dish . show me what it looks like:When selecting chrysanthemums, smell them to make sure they are fragrant and taste sweet, then pick them and dry them in the sun. Place three chrysanthemums per liter of liquor in a raw silk bag, suspending them from the top of the liquor at a height of approximately one finger, and seal the mouth of the jar tightly. After one night, take out the chrysanthemum flowers. The flavor of this liquor is extremely fragrant and sweet. Any fragrant flower can be brewed using this method.",
+    "ingredients": [
+        " 황국화",
+        "청주",
+        "국화" 
+        
+        
+    ],
+    "original": "揀菊嗅之香嘗之甘者，摘下。 每酒一斗用花菊頭三兩，生盛之，置於酒上離一指浮，密封甕口。 經宿去花至味至香而甘。 一切有香之花依此法可也。",
+    "translated": "황국화를 고를 때 향을 맡아보아서 향기롭고 맛 보았을 때 단 것을 골라 따서 햇볕에 말린다. 청주 1말당 국화 3냥을 생 명주 주머니에 넣어 술 윗면에서 대략 손가락 하나 높이에 놓이도록 매달아놓고 항아리 입구를 단단히 밀봉한다. 하룻밤이 지난 후 국화꽃을 꺼낸다. 이 청주의 술 맛은 지극히 향기롭고 달다. 모든 향기가 있는 꽃은 이와 같은 법으로 술을 빚을 수 있다.",
+    "source": "산가요록",
+    "comment": " 꽃을 이용한 술도 인상적이다."
+}
