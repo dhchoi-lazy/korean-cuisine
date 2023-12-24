@@ -1,0 +1,8 @@
+{
+    "student_id": "2023130875",
+    "name": "가지장아찌",
+    "image": "images/가지장아찌.jpg",
+    "image_prompt": "Here is the recipe for the pickled eggplant. Picture the pickled eggplant made according to this recipe: 1) Cut the eggplant into four pieces and bake in sesame oil. 2) Dip it in the vinegar and garlic juice.",
+    "ingredients": ["가지", "참기름", "초", "마늘 즙"],
+    "original": "1) 가지를 네 조각 내어 참기름에 굽는다. 2) 초와 마늘 즙에 담가 먹는다.",
+    "source": "수운잡방"}

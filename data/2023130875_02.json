@@ -1,0 +1,13 @@
+{
+    "student_id": "2023130875",
+    "name": "다식",
+    "image": "images/다식.jpg",
+    "image_prompt": "Here's the recipe for dasik. Take a realistic photo of the dasik made according to this recipe: 1) Put a dough in a multi-food plate and print out the shape. 2) Fire charcoal, put it in the pot, and bake it. 3) Take it out when it's cooked.",
+    "ingredients": ["밀가루","꿀","참기름","청주"],
+    "original": "茶食果一器: 二百立 眞末四斗 眞油淸各一斗六升 胡椒末桂皮末 各五夕 實栢子三合 砂糖二圓",
+    "translated": "1) 밀가루 1말, 꿀 1되, 참기름 8홉, 청주 작은 잔으로 3잔을 골고루 섞어 반죽하여 한 덩어리로 만든다.
+    2) 다식판에 넣어 모양을 찍어낸다.
+    3) 숯불을 피워 솥 안에 넣고 굽는다.
+    4) 덮개를 열어 밑이 노르스름하고 마르게 구워졌으면 꺼낸다.",
+    "source": "수운잡방"
+}
