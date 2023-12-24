@@ -1,0 +1,18 @@
+{
+    "student_name": "2023130503",
+    "name": "만이창면",
+    "image": "images/만이창면.png",
+    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 면요리를 그려줘 : 계란과 매운 향채, 연한고기, 참깨가 들어가",
+    "ingredients": [
+        "메밀가루",
+        "계란",
+        "향채",
+        "고기",
+        "참깨",
+        "소금"
+    ],
+    "original": "메밀가루나 밀가루를 물에 반죽하여 판에서 밀되 매우 얇게 풀뿌리 모 양으로 자른다. 끓여서 냉수에 맑아질 때까지 씻는다. 각종 매운 향채[辛香 菜]와계란, 연한고기를 모두 가늘게 썰어서 섞고, 참깨껍질을 벗겨 즙을 내어 소금을 넣고 맛을 보아 적당하면 손님에게 내는데 맛이 토장(土醬)보 다 좋다.",
+    "translated": "The buckwheat or wheat flour is mixed with water and rolled out on a board, cut into very thin shapes of grass roots. It is boiled and washed in cold water until clear. Various spicy herbs, eggs, and tender meat are all thinly sliced and mixed together, and the sesame seeds are peeled off to extract the juice. Salt is added to taste, and if it is appropriate, it is served to the guests. The taste is better than that of soybean paste.",
+    "source": "산가요록",
+    "comment": "막걸리랑 먹으면 맛있을 것 같습니다."
+}

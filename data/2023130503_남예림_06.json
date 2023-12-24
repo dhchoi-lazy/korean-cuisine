@@ -1,0 +1,16 @@
+{
+    "student_name": "2023130503",
+    "name": "백자죽",
+    "image": "images/백자죽.png",
+    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 백자죽을 그려줘 : 죽 위에는 잣과 생강이 올라간다",
+    "ingredients": [
+        "원미죽",
+        "잣",
+        "생강",
+        "쌀죽"
+    ],
+    "original": "원미죽(元米粥)에 잣[柏子]을 곱게 다지고 생강을 가늘게 썰어 넣어 겨 울에는 뜨겁게 여름에는 차게 먹는다. 또 푹 퍼진 쌀죽에 잣을 다져 넣어 골고루 섞고는 다시 끓여서 먹는다.",
+    "translated": "For the original rice porridge, grind pine nuts finely and thinly slice ginger to put in, eating it hot in winter and cool in the summer. Also, in the deeply soaked rice porridge, grind pine nuts, mix them evenly, and then boil it again to eat.",
+    "source": "산가요록",
+    "comment": "백죽에 잣과 생강의 맛과 향이 더해진 느낌이군요"
+}

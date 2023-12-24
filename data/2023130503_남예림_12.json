@@ -1,0 +1,18 @@
+{
+    "student_name": "2023130503",
+    "name": "대구어피탕",
+    "image": "images/대구어피탕.png",
+    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 대구탕 그려줘",
+    "ingredients": [
+        "대구",
+        "도라지",
+        "마른 새우가루",
+        "꿩고기",
+        "간장",
+        "식초"
+    ],
+    "original": "대구 껍질 전체를 도라지와 마른 새우가루와 날 꿩고기를 물에 끓여서 간장과 식초를 꺼내서 낸다.",
+    "translated": "The entire skin of the cod is boiled in water with bellflower roots, dried shrimp powder, and sliced pheasant meat. Extract and serve with soy sauce and vinegar.",
+    "source": "산가요록",
+    "comment": "칼칼한 고춧가루가 들어가지 않은 백탕 느낌의 대구탕이라니... 대구의 신선도가 아주 좋아야 할 것 같네요."
+}

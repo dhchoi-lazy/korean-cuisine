@@ -1,0 +1,14 @@
+{
+    "student_name": "2023130503",
+    "name": "목맥소주",
+    "image": "images/목맥소주.png",
+    "image_prompt": "조선시대 느낌이 나는 메밀술을 그려줘: 전통적인 술잔에 담아서",
+    "ingredients": [
+        "메밀술",
+        "보리"
+    ],
+    "original": "메밀 4~5말로 술을 빚는다. 술이 막 익으려고 하면 또 보리 1말반을 씻 어서 죽을 쑤어 술항아리에 붓는다. 표면이 등황색(橙黃色)이 되면 베자루 에 담아서 술주자에 거른다. 술 색이 그대로이면 그 지게미는 버리고 소주 를 고면 화기가 나지 않는다.",
+    "translated": "Brew 4-5 malts of buckwheat into alcohol. When the alcohol is about to mature, wash 1.5 malts of barley and spread it over the fermented malt in the alcohol jar. Once the surface turns orange-yellow, filter it through a cloth into a liquor bottle using a bamboo strainer. If the color of the alcohol remains unchanged, discard the malt sediment, and the soju will not produce any impurities.",
+    "source": "산가요록",
+    "comment": "다른 말로는 메밀소주라고도 부른다고 하네요."
+}

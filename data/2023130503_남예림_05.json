@@ -1,0 +1,14 @@
+{
+    "student_name": "2023130503",
+    "name": "두죽",
+    "image": "images/두죽.png",
+    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 팥죽을 그려줘",
+    "ingredients": [
+        "팥",
+        "멥쌀"
+    ],
+    "original": "붉은 팥[赤小豆]을 중탕(重湯)하여 곱게 가루 내어 볕에 말려둔다. 급히 쓸 일이 있으면 팥가루를 먼저 넣고 끓이다가 멥쌀을 씻어서 가루내어 함 께 넣고 죽을 쑤면 아주 좋다.",
+    "translated": "Dry the red beans thoroughly after boiling them thoroughly and grinding them finely. If you need to use it urgently, it's very good to put the red bean powder in first, boil it, and then wash the glutinous rice, grind it, and put it in together to make porridge.",
+    "source": "산가요록",
+    "comment": "동짓날 먹는 팥죽과 비슷할 것 같네요. 역시 조상들의 지혜란..."
+}
