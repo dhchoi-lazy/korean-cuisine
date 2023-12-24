@@ -1,0 +1,15 @@
+{
+    "student_id": "2023131111",
+    "name": "육두주",
+    "image": "images/img_07.png",
+    "image_prompt": "Korean clear liquor in a ceramic cup with a ceramic bottle, photo",
+    "ingredients": [
+        "백미",
+        "물",
+        "누룩"
+    ],
+    "original": "米九斗。 白米三斗，百洗細末令焦，水一盆餘，和之作粥，末六升，和入瓮。熟後，白米六斗，全蒸熟，水二盆，六升，前酒和入瓮。待熟，用之。",
+    "translated": "쌀 9말을 쓴다. 백미(白米) 3말을 여러 번 씻어 고운 가루를 내어 볶아 물 1동이 정도를 섞어 죽을 쑤고 누룩가루 6되를 같이 섞어 항아리에 담는다. <술이> 익은 다음 백미(白米) 6말을 충분히 쪄서 물 2동이와 누룩 6되를 앞서 빚은 술과 같이 섞어 항아리에 담는다. 익기를 기다려 쓴다.",
+    "source": "산가요록",
+    "comment": ""
+}
