@@ -1,0 +1,15 @@
+{
+    "student_id": "정필중",
+    "name": "목통식초",
+    "image": "images/moktongsikcho.png",
+    "image_prompt": "Photo of Korean traditional drink 'moktongsikcho'",
+    "ingredients": [
+        "목통",
+        "물",
+        "소금"
+    ],
+    "original": "木通三十斤，水三盆，四小握，和甕置處， 三日用之",
+    "translated": "목통(木通, 으름덩굴 말린 것) 30근, 물 3동이, 소금 작은 주먹으로 4줌을 섞어 항아리에 담아 따뜻한 곳에 둔다. 3일이면 사용할 수 있다.",
+    "source": "수운잡방",
+    "comment": "어떤 향이 날지 짐작조차 안 된다."
+}

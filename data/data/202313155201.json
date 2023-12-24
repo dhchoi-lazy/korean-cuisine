@@ -1,0 +1,19 @@
+{
+    "student_id": "정필중",
+    "name": "전약",
+    "image": "images/jeonyak.png",
+    "image_prompt": "Photo of Korean traditional food 'jeonyak'",
+    "ingredients": [
+        "꿀",
+        "아교",
+        "대추",
+        "후추",
+        "정향",
+        "건강",
+        "계피"
+    ],
+    "original": "蜜阿膠各三，大召一，胡椒丁香一兩半，乾姜五兩，桂皮三兩，依法和煎。",
+    "translated": "꿀과 아교를 각각 3사발, 대추 1사발, 후추와 정향을 각각 1.5냥, 마른 생강 5냥, 계피 3냥을 가지고 평소의 방법대로 달인다.",
+    "source": "수운잡방",
+    "comment": "만들어보긴 싫고, 먹어보고는 싶다."
+}
