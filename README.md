@@ -106,7 +106,7 @@ The results can be viewed in real-time:
 
 ### Ownership
 
-- The owner of this project is Choi Dong-hyuk from KAIST Graduate School of Culture Technology.
+- The owner of this project is Donghyeok, Choi from KAIST Graduate School of Culture Technology.
 - The owner bears all legal responsibilities for the project and holds the rights.
 
 ### Terms of Use
