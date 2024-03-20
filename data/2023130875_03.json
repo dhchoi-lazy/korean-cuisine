@@ -1,15 +1,10 @@
 {
-    "student_id": "2023130875",
-    "name": "당근김치",
-    "image": "images/당근김치.jpg",
-    "image_prompt": "Here is the recipe for carrot kimchi. Take a picture of the carrot kimchi that is made according to this recipe: 1) Remove the stems and leaves of the carrot, or wash it clean leaving some tender stems or leaves.
-    2) Sprinkle the carrot with salt and marinate it for a day, wash the salt, soak it in water again and marinate it overnight, then remove the water and put it in a jar.
-    3) Fill 1 copper of carrot with a ratio of 1 to 5 hops of salt and store it in a place that does not freeze.
-4) Slice the carrots and put them in a bowl.",
-    "ingredients": ["당근","소금"],
-    "original":"切作片子，過控。 入少許細絲 蘿茴香花椒紅麴,爛拌勻同一.食之。",
-    "translated": "1) 당근의 줄기와 잎을 제거하거나 연한줄기나 잎을 조금 남기고 깨끗이 씻는다.
-    2) 당근에 소금을 뿌리고 하루 동안 재운 뒤 소금기를 씻고, 다시 물에 담궈 하루 밤 재운 후 물기를 제거하여 항아리에 담는다.
-    3) 당근1동이에 소금 1되 5홉 비율로 항아리를 채우고 얼지 않는 곳에 보관한다.",
-    "source": "수운잡방"
+  "student_id": "2023130875",
+  "name": "당근김치",
+  "image": "images/당근김치.jpg",
+  "image_prompt": "Here is the recipe for carrot kimchi. Take a picture of the carrot kimchi that is made according to this recipe: 1) Remove the stems and leaves of the carrot, or wash it clean leaving some tender stems or leaves.\n 2) Sprinkle the carrot with salt and marinate it for a day, wash the salt, soak it in water again and marinate it overnight, then remove the water and put it in a jar. \n3) Fill 1 copper of carrot with a ratio of 1 to 5 hops of salt and store it in a place that does not freeze. \n 4) Slice the carrots and put them in a bowl.",
+  "ingredients": ["당근", "소금"],
+  "original": "切作片子，過控。 入少許細絲 蘿茴香花椒紅麴,爛拌勻同一.食之。",
+  "translated": "1) 당근의 줄기와 잎을 제거하거나 연한줄기나 잎을 조금 남기고 깨끗이 씻는다.\n 2) 당근에 소금을 뿌리고 하루 동안 재운 뒤 소금기를 씻고, 다시 물에 담궈 하루 밤 재운 후 물기를 제거하여 항아리에 담는다. \n 3) 당근1동이에 소금 1되 5홉 비율로 항아리를 채우고 얼지 않는 곳에 보관한다.",
+  "source": "수운잡방"
 }
