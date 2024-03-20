@@ -1,4 +1,4 @@
-# 한식의 기원(The Origin of Korean Cuisine)
+# 한식의 기원
 
 고려대학교 문과대학 디지털인문학입문II 05분반 프로젝트 데이터 업로드 저장소입니다.
 
@@ -122,3 +122,63 @@
 - 추가 기여를 원할 경우, 소유자에게 논의하세요.
 - 기여도에 대한 문의는 소유자 이메일([dhchoi.lazy@gmail.com](mailto:dhchoi.lazy@gmail.com))로 연락 바랍니다.
 - 기여도가 인정될 경우, 학술 논문에 차등 인용 예정입니다.
+
+---
+
+# The Origin of Korean Cuisine (English ver.)
+
+This is the project data upload repository for the Introduction to Digital Humanities II, Section 05, College of Liberal Arts, Korea University.
+
+## Overview
+
+- This project is part of the Introduction to Digital Humanities II course in the College of Liberal Arts at Korea University.
+- The goal is to learn how to use digital humanities tools and deepen understanding in this area.
+- We collect data on Korean ingredients and cooking methods from the early modern to modern periods to explore what defines the style of Korean cuisine.
+- This project was inspired by [this study](https://www.nature.com/articles/srep00196), but our research focuses more on exploring the unique characteristics of Korean cuisine rather than finding universal food pairing traits.
+- The cookbooks we will collect during the fall semester are as follows. These cookbooks are of high documentary value and some are already digitized, making them easily accessible:
+  - Sangayorok (산가요록)
+  - Eumsik Dimibang (음식디미방)
+  - Suun Japbang (수운잡방)
+- The list of cookbooks for future reference is excerpted from the book "Food Classics" by Professor Han Bok-ryeo. Please refer to the [Copyright](#copyright) section below if any copyright issues arise.
+
+  ### Cookbooks from the 1400s to 1500s
+
+  - Sangayorok, Suun Japbang, Gyemi Seo
+
+  ### Cookbooks from the 1600s to 1700s
+
+  - Domundaejak, Choissi Eumsikbeop, Singanguhwangchalyo, Eumsik Dimibang, Yorok, Jubangmun, Eumsikbo, Somin Sasul, Jeungbo Sanrim Gyeongje
+
+  ### Cookbooks from the 1800s
+
+  - Gyuhap Chongseo, Imwon Gyeongjeji, Dongguk Sesigi, Yunssi Eumsikbeop, Eumsikbangmun, Gagi Hanjung Ilwol, Eumsikbangmunira, Gyugon Yoram, Jusik Siui, Issi Eumsikbeop, Siui Jeonseo
+
+  ### Cookbooks from the 1900s
+
+  - Banchan Deungsok, Buin Pilji, Joseon Musang Shinsik Yorijebeop, Joseon Yorijebeop, Haedong Jukji, Ganpyeon Joseon Yorijebeop, Sacheui Joseon Yori, Joseon Yoribeop, Gajeong Jubu Pildok, Joseon Yorihak, Uri Eumsik, Ijo Gungjeong Yoritonggo
+
+## How to Contribute to the Project
+
+Everyone who wishes to contribute to the project data is welcome to start contributing after the end of the fall semester.
+
+This project aims to improve students' abilities to use Git/Github, so please contribute in the following ways:
+
+- If you are not familiar with Git or Github, you can learn the basics by referring to [this guide](https://git-scm.com/book/ko/v2).
+- When contributing on Github, you can do so through Pull Requests, referring to [the Pull Request guide](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+### How to Contribute Data
+
+1. Download the `template.json` file and read the description for each field thoroughly. Below is an example of the file:
+
+   ```json
+   {
+     "student_id": "Student ID, Name, Nickname (Please use consistently)",
+     "name": "Name of the dish",
+     "image": "images/your_image_name.png (Please store the image file in the images folder. JPG format is also acceptable.)",
+     "image_prompt": "Prompt used for AI image generation",
+     "ingredients": ["Ingredient1", "Ingredient2", "Ingredient3"],
+     "original": "Enter the original cooking method here.",
+     "translated": "Enter the translation of the cooking method here.",
+     "source": "Enter the source of the cooking method here.",
+     "comment": "Enter any personal thoughts about this dish or information you want to share with others here."
+   }
