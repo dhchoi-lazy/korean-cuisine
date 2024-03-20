@@ -1,3 +1,131 @@
+# The Origin of Korean Cuisine (English ver.)
+
+This is the project data upload repository for the Introduction to Digital Humanities II, Class 05, College of Liberal Arts, Korea University.
+
+## Overview
+
+- This project is part of the Introduction to Digital Humanities II course in the College of Liberal Arts at Korea University.
+- The goal is to learn how to use digital humanities tools and deepen understanding in this area.
+- We collect data on Korean ingredients and cooking methods from the early modern to modern periods to explore what defines the style of Korean cuisine.
+- This project was inspired by [this study](https://www.nature.com/articles/srep00196), but our research focuses more on exploring the unique characteristics of Korean cuisine rather than finding universal food pairing traits.
+- The cookbooks we will collect during the fall semester are as follows. These cookbooks are of high documentary value and some are already digitized, making them easily accessible:
+  - Sangayorok (산가요록)
+  - Eumsik Dimibang (음식디미방)
+  - Suun Japbang (수운잡방)
+- The list of cookbooks for future reference is excerpted from the book "Food Classics" by Professor Han Bok-ryeo. Please refer to the [Copyright](#copyright) section below if any copyright issues arise.
+
+  ### Cookbooks from the 1400s to 1500s
+
+  - Sangayorok, Suun Japbang, Gyemi Seo
+
+  ### Cookbooks from the 1600s to 1700s
+
+  - Domundaejak, Choissi Eumsikbeop, Singanguhwangchalyo, Eumsik Dimibang, Yorok, Jubangmun, Eumsikbo, Somin Sasul, Jeungbo Sanrim Gyeongje
+
+  ### Cookbooks from the 1800s
+
+  - Gyuhap Chongseo, Imwon Gyeongjeji, Dongguk Sesigi, Yunssi Eumsikbeop, Eumsikbangmun, Gagi Hanjung Ilwol, Eumsikbangmunira, Gyugon Yoram, Jusik Siui, Issi Eumsikbeop, Siui Jeonseo
+
+  ### Cookbooks from the 1900s
+
+  - Banchan Deungsok, Buin Pilji, Joseon Musang Shinsik Yorijebeop, Joseon Yorijebeop, Haedong Jukji, Ganpyeon Joseon Yorijebeop, Sacheui Joseon Yori, Joseon Yoribeop, Gajeong Jubu Pildok, Joseon Yorihak, Uri Eumsik, Ijo Gungjeong Yoritonggo
+
+## How to Contribute to the Project
+
+Everyone who wishes to contribute to the project data is welcome to start contributing after the end of the fall semester.
+
+This project aims to improve students' abilities to use Git/Github, so please contribute in the following ways:
+
+- If you are not familiar with Git or Github, you can learn the basics by referring to [this guide](https://git-scm.com/book/ko/v2).
+- When contributing on Github, you can do so through Pull Requests, referring to [the Pull Request guide](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+### How to Contribute Data
+
+1. Download the `template.json` file and read the description for each field thoroughly. Below is an example of the file:
+
+   ```json
+   {
+     "student_id": "Student ID, Name, Nickname (Please use consistently)",
+     "name": "Name of the dish",
+     "image": "images/your_image_name.png (Please store the image file in the images folder. JPG format is also acceptable.)",
+     "image_prompt": "Prompt used for AI image generation",
+     "ingredients": ["Ingredient1", "Ingredient2", "Ingredient3"],
+     "original": "Enter the original cooking method here.",
+     "translated": "Enter the translation of the cooking method here.",
+     "source": "Enter the source of the cooking method here.",
+     "comment": "Enter any personal thoughts about this dish or information you want to share with others here."
+   }
+
+#### Detailed Instructions for Data Contribution
+
+- **Student ID (`student_id`)**: Please use a string only. This will be used as the file name when uploading. If an ID already exists, a sequential number will be assigned.
+- **Dish Name (`name`)**: You must enter the name of a Korean dish, not personal names.
+- **Image (`image`)**: Upload the AI-generated Korean dish image to the `images` folder, and the file name must start with `images/`.
+- **Prompt (`image_prompt`)**: Specify the prompt used for AI image generation. Perfect reproduction is impossible, but it helps in achieving similar results.
+- **Ingredients (`ingredients`)**
+
+  - **Basic Rules**: The list should be submitted in list format, and should not include quantities or cooking status.
+
+    | Input Example       | Description                                   |
+    | --------------------| --------------------------------------------- |
+    | Not Allowed: 4-5 bushels of beans | Do not specify quantity. Use 'beans'         |
+    | Not Allowed: Boiled radish        | Do not specify cooking status. Use 'radish'  |
+    | Allowed: Kimchi                   | In recipes like kimchi stew, use 'kimchi'    |
+
+- **Original (`original`)**: Enter the original recipe here. This will be used for data modification and verification.
+- **Translation (`translated`)**: If in Classical Chinese or old Korean, provide a translation. Perfect translation is not required as the project mainly aims to verify the use of ingredients.
+- **Source (`source`)**: Enter the name of the source book. Write in Korean only, but Hanja (Chinese characters) may be included.
+- **Comment (`comment`)**: Enter any notable specifics worth mentioning.
+
+#### Contribution Procedure
+
+1. Copy the `template.json` to the `data` folder and rename it as desired.
+2. Upload the AI-generated image to the `images` folder. Avoid duplicating file names.
+3. Commit with a freeform message.
+4. Create a Pull Request (PR) with the title "Student ID - Dish Name".
+5. Wait for PR approval. The format will be verified by an automatic script. If rejected, check the message, make corrections, and retry.
+
+## Data Visualization
+
+The results can be viewed in real-time:
+
+**[Go to the Data Visualization Site](https://korean-cuisine.cola172.store)**
+
+### Precautions:
+
+- **Service Interruptions due to Server Maintenance**: In the initial phase of the project, access to the service may occasionally be unavailable due to server maintenance.
+
+- **Private Repository**: The code repository for the visualization site is not public.
+
+## Future Plans
+
+- We plan to continue working on the data until a meaningful dataset is built.
+- The ultimate goal is to publish as an academic work through network and statistical analysis.
+
+## Copyright Notice
+
+### Ownership
+
+- The owner of this project is Choi Dong-hyuk from KAIST Graduate School of Culture Technology.
+- The owner bears all legal responsibilities for the project and holds the rights.
+
+### Terms of Use
+
+- This project can only be used for **educational and academic purposes**.
+- Commercial use is strictly prohibited.
+- If you intend to use it for educational or academic purposes, you must attach the owner's name and repository link.
+
+### Data Contribution
+
+- Students taking the course are required to work on a minimum of 10 and a maximum of 13 data entries.
+- If you wish to contribute more, please discuss with the owner.
+- For inquiries about contributions, contact the owner's email ([dhchoi.lazy@gmail.com](mailto:dhchoi.lazy@gmail.com)).
+- Contributions recognized will be differentially cited in academic papers.
+
+
+
+---
+
 # 한식의 기원
 
 고려대학교 문과대학 디지털인문학입문II 05분반 프로젝트 데이터 업로드 저장소입니다.
@@ -123,62 +251,3 @@
 - 기여도에 대한 문의는 소유자 이메일([dhchoi.lazy@gmail.com](mailto:dhchoi.lazy@gmail.com))로 연락 바랍니다.
 - 기여도가 인정될 경우, 학술 논문에 차등 인용 예정입니다.
 
----
-
-# The Origin of Korean Cuisine (English ver.)
-
-This is the project data upload repository for the Introduction to Digital Humanities II, Section 05, College of Liberal Arts, Korea University.
-
-## Overview
-
-- This project is part of the Introduction to Digital Humanities II course in the College of Liberal Arts at Korea University.
-- The goal is to learn how to use digital humanities tools and deepen understanding in this area.
-- We collect data on Korean ingredients and cooking methods from the early modern to modern periods to explore what defines the style of Korean cuisine.
-- This project was inspired by [this study](https://www.nature.com/articles/srep00196), but our research focuses more on exploring the unique characteristics of Korean cuisine rather than finding universal food pairing traits.
-- The cookbooks we will collect during the fall semester are as follows. These cookbooks are of high documentary value and some are already digitized, making them easily accessible:
-  - Sangayorok (산가요록)
-  - Eumsik Dimibang (음식디미방)
-  - Suun Japbang (수운잡방)
-- The list of cookbooks for future reference is excerpted from the book "Food Classics" by Professor Han Bok-ryeo. Please refer to the [Copyright](#copyright) section below if any copyright issues arise.
-
-  ### Cookbooks from the 1400s to 1500s
-
-  - Sangayorok, Suun Japbang, Gyemi Seo
-
-  ### Cookbooks from the 1600s to 1700s
-
-  - Domundaejak, Choissi Eumsikbeop, Singanguhwangchalyo, Eumsik Dimibang, Yorok, Jubangmun, Eumsikbo, Somin Sasul, Jeungbo Sanrim Gyeongje
-
-  ### Cookbooks from the 1800s
-
-  - Gyuhap Chongseo, Imwon Gyeongjeji, Dongguk Sesigi, Yunssi Eumsikbeop, Eumsikbangmun, Gagi Hanjung Ilwol, Eumsikbangmunira, Gyugon Yoram, Jusik Siui, Issi Eumsikbeop, Siui Jeonseo
-
-  ### Cookbooks from the 1900s
-
-  - Banchan Deungsok, Buin Pilji, Joseon Musang Shinsik Yorijebeop, Joseon Yorijebeop, Haedong Jukji, Ganpyeon Joseon Yorijebeop, Sacheui Joseon Yori, Joseon Yoribeop, Gajeong Jubu Pildok, Joseon Yorihak, Uri Eumsik, Ijo Gungjeong Yoritonggo
-
-## How to Contribute to the Project
-
-Everyone who wishes to contribute to the project data is welcome to start contributing after the end of the fall semester.
-
-This project aims to improve students' abilities to use Git/Github, so please contribute in the following ways:
-
-- If you are not familiar with Git or Github, you can learn the basics by referring to [this guide](https://git-scm.com/book/ko/v2).
-- When contributing on Github, you can do so through Pull Requests, referring to [the Pull Request guide](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
-
-### How to Contribute Data
-
-1. Download the `template.json` file and read the description for each field thoroughly. Below is an example of the file:
-
-   ```json
-   {
-     "student_id": "Student ID, Name, Nickname (Please use consistently)",
-     "name": "Name of the dish",
-     "image": "images/your_image_name.png (Please store the image file in the images folder. JPG format is also acceptable.)",
-     "image_prompt": "Prompt used for AI image generation",
-     "ingredients": ["Ingredient1", "Ingredient2", "Ingredient3"],
-     "original": "Enter the original cooking method here.",
-     "translated": "Enter the translation of the cooking method here.",
-     "source": "Enter the source of the cooking method here.",
-     "comment": "Enter any personal thoughts about this dish or information you want to share with others here."
-   }
