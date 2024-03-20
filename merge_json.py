@@ -36,8 +36,11 @@ json_files = [
 ]
 
 for json_file in json_files:
+    if not json_file.endswith(".json"):
+        continue
     with open(json_file, "r") as f:
         json_data = json.load(f)
+
         # Create a unique representation of the current JSON object
         json_rep = json.dumps(
             {k: v for k, v in json_data.items() if k not in ["id", "created_at"]}
