@@ -1,20 +1,20 @@
 {
-    "student_name": "2023130503",
-    "name": "토장",
-    "image": "images/토장.png",
-    "image_prompt": "밀가루와 싸라기, 녹두가루를 섞은 반죽을 판에서 밀고 끓여 차갑게 식힌 조선시대 요리를 그려줘",
-    "ingredients": [
-        "밀가루",
-        "싸라기",
-        "녹두가루",
-        "들깨즙",
-        "간장",
-        "표고버섯",
-        "고기",
-        "계란"
-    ],
-    "original": "밀가루 1되와, 싸라기 1홉, 녹두가루 1홉을 물에 반죽하여 판에서 민다. 길이 2치에 너비 1치 반으로 자른 다음 대광주리에 담아 끓여서 익으면 물에 헹구어 차갑게 식힌다. 들깨즙과 간장에 여러 향채.기름진 고기.계 란.편으로 썬 표고를 음식에 넣어서 먹는다.",
-    "translated": "Mix 1 cup of flour, 1 cup of shredded lettuce, and 1 cup of mung bean flour with water to make a batter. Grind it on a pan. After cutting it into pieces of 2 inches in length and 1.5 inches in width, put them in a large pot and boil until cooked. Rinse them in cold water to cool. Serve by adding sesame juice, soy sauce, various vegetables, and sliced shiitake mushrooms to the dish, along with oily meat and sliced eggs",
-    "source": "산가요록",
-    "comment": "고기와 계란을 넣은 국수인 '만이창면'에 소량 첨가해 먹으면 맛있다네요."
+  "student_id": "2023130503",
+  "name": "토장",
+  "image": "images/토장.png",
+  "image_prompt": "밀가루와 싸라기, 녹두가루를 섞은 반죽을 판에서 밀고 끓여 차갑게 식힌 조선시대 요리를 그려줘",
+  "ingredients": [
+    "밀가루",
+    "싸라기",
+    "녹두가루",
+    "들깨즙",
+    "간장",
+    "표고버섯",
+    "고기",
+    "계란"
+  ],
+  "original": "밀가루 1되와, 싸라기 1홉, 녹두가루 1홉을 물에 반죽하여 판에서 민다. 길이 2치에 너비 1치 반으로 자른 다음 대광주리에 담아 끓여서 익으면 물에 헹구어 차갑게 식힌다. 들깨즙과 간장에 여러 향채.기름진 고기.계 란.편으로 썬 표고를 음식에 넣어서 먹는다.",
+  "translated": "Mix 1 cup of flour, 1 cup of shredded lettuce, and 1 cup of mung bean flour with water to make a batter. Grind it on a pan. After cutting it into pieces of 2 inches in length and 1.5 inches in width, put them in a large pot and boil until cooked. Rinse them in cold water to cool. Serve by adding sesame juice, soy sauce, various vegetables, and sliced shiitake mushrooms to the dish, along with oily meat and sliced eggs",
+  "source": "산가요록",
+  "comment": "고기와 계란을 넣은 국수인 '만이창면'에 소량 첨가해 먹으면 맛있다네요."
 }

@@ -1,15 +1,11 @@
 {
-    "student_name": "2023130503",
-    "name": "우자박",
-    "image": "images/우자박.png",
-    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 : 토란으로 만든 떡을 그려줘",
-    "ingredients": [
-        "토란",
-        "찹쌀",
-        "기름"
-    ],
-    "original": "토란의 분량은 마음대로 하여 두꺼운 껍질을 벗겨서 깨끗이 씻고는 무 르도록 삶아서 손으로 두꺼운 껍질을 골라낸다. 토란 1말과 찹쌀 1되 반을 섞어서 익혀 찧어서 떡을 만들어 기름에 지져서 쓴다.",
-    "translated": "The quantity of taro can be according to your preference. Remove the thick peel, wash it clean, and boil until it's soft, then pick out the thick peel by hand. Mix 1 mal (old Korean volume unit) of taro and half of 1 doe (old Korean volume unit) of glutinous rice, cook and knead them to make a cake, and fry it in oil to use.",
-    "source": "산가요록",
-    "comment": "토란으로 만든 떡은 처음 보네요. 먹어보고 싶어요."
+  "student_id": "2023130503",
+  "name": "우자박",
+  "image": "images/우자박.png",
+  "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 : 토란으로 만든 떡을 그려줘",
+  "ingredients": ["토란", "찹쌀", "기름"],
+  "original": "토란의 분량은 마음대로 하여 두꺼운 껍질을 벗겨서 깨끗이 씻고는 무 르도록 삶아서 손으로 두꺼운 껍질을 골라낸다. 토란 1말과 찹쌀 1되 반을 섞어서 익혀 찧어서 떡을 만들어 기름에 지져서 쓴다.",
+  "translated": "The quantity of taro can be according to your preference. Remove the thick peel, wash it clean, and boil until it's soft, then pick out the thick peel by hand. Mix 1 mal (old Korean volume unit) of taro and half of 1 doe (old Korean volume unit) of glutinous rice, cook and knead them to make a cake, and fry it in oil to use.",
+  "source": "산가요록",
+  "comment": "토란으로 만든 떡은 처음 보네요. 먹어보고 싶어요."
 }

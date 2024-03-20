@@ -1,17 +1,11 @@
 {
-    "student_name": "2023130503",
-    "name": "어만두",
-    "image": "images/어만두.png",
-    "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 만두를 그려줘 : 생선 안에 만두소가 들어가 있는 형태야",
-    "ingredients": [
-        "생선",
-        "녹두녹말",
-        "만두소",
-        "찹쌀가루",
-        "초장"
-    ],
-    "original": "신선한 생선을 얇게 저며 헝겊으로 짜서 물기를 없애고 칼로 또 얇고 넓게 저며서 소를 넣고 녹두녹말과 찹쌀가루를 묻혀서 물에 삶는다. 다시 녹두녹말을 묻혀 깨끗한 물에 삶아서 여름에는 물을 갈아서 차게 해주고 겨울에는 삶은 물에 띄워서 초장(醋醬)과 먹는다.",
-    "translated": "Fresh fish is thinly sliced, squeezed with a cloth to remove excess moisture, then thinly and broadly sliced with a knife. It is stuffed with beef and coated with mung bean starch and glutinous rice flour before being boiled in water. Once again coated with mung bean starch, it is boiled in clean water. In summer, it is chilled by changing the water, and in winter, it is served in the boiled water with dipping sauce (vinegar sauce).",
-    "source": "산가요록",
-    "comment": "생선과 만두소의 조화라... 맛있을 것 같네요."
+  "student_id": "2023130503",
+  "name": "어만두",
+  "image": "images/어만두.png",
+  "image_prompt": "조선시대에 만든 것 같은 전통적인 느낌이 나는 만두를 그려줘 : 생선 안에 만두소가 들어가 있는 형태야",
+  "ingredients": ["생선", "녹두녹말", "만두소", "찹쌀가루", "초장"],
+  "original": "신선한 생선을 얇게 저며 헝겊으로 짜서 물기를 없애고 칼로 또 얇고 넓게 저며서 소를 넣고 녹두녹말과 찹쌀가루를 묻혀서 물에 삶는다. 다시 녹두녹말을 묻혀 깨끗한 물에 삶아서 여름에는 물을 갈아서 차게 해주고 겨울에는 삶은 물에 띄워서 초장(醋醬)과 먹는다.",
+  "translated": "Fresh fish is thinly sliced, squeezed with a cloth to remove excess moisture, then thinly and broadly sliced with a knife. It is stuffed with beef and coated with mung bean starch and glutinous rice flour before being boiled in water. Once again coated with mung bean starch, it is boiled in clean water. In summer, it is chilled by changing the water, and in winter, it is served in the boiled water with dipping sauce (vinegar sauce).",
+  "source": "산가요록",
+  "comment": "생선과 만두소의 조화라... 맛있을 것 같네요."
 }

@@ -1,13 +1,11 @@
 {
-    "student_name": "2023130503",
-    "name": "모미주",
-    "image": "images/모미주.png",
-    "image_prompt": "보리쌀로 만들어진 술을 그려줘 : 조선시대 느낌이 나게 전통적인 술잔에 담아",
-    "ingredients": [
-        "보리쌀"
-    ],
-    "original": "보리쌀로 납작하게 떡을 만들어 3일간 물에 푹 담가두었다가 걸러내어 얇게 펴 단단해질 때까지 볕에 말린다. 다시 빻아 거친 껍질을 없애고 방 법대로 술을 빚으면 멥쌀로 술빚은 것과 다름이 없다.",
-    "translated": "Rice cakes are made flat with barley rice, soaked in water for three days, then strained and spread thin in the sun until they become firm. Once again, they are ground, removing the coarse husks, and when brewed into alcohol using the same method as with glutinous rice, it is essentially no different from brewing alcohol with glutinous rice.",
-    "source": "산가요록",
-    "comment": "보리떡으로 만든 술이네요. 맥주와는 다른 느낌이군요."
+  "student_id": "2023130503",
+  "name": "모미주",
+  "image": "images/모미주.png",
+  "image_prompt": "보리쌀로 만들어진 술을 그려줘 : 조선시대 느낌이 나게 전통적인 술잔에 담아",
+  "ingredients": ["보리쌀"],
+  "original": "보리쌀로 납작하게 떡을 만들어 3일간 물에 푹 담가두었다가 걸러내어 얇게 펴 단단해질 때까지 볕에 말린다. 다시 빻아 거친 껍질을 없애고 방 법대로 술을 빚으면 멥쌀로 술빚은 것과 다름이 없다.",
+  "translated": "Rice cakes are made flat with barley rice, soaked in water for three days, then strained and spread thin in the sun until they become firm. Once again, they are ground, removing the coarse husks, and when brewed into alcohol using the same method as with glutinous rice, it is essentially no different from brewing alcohol with glutinous rice.",
+  "source": "산가요록",
+  "comment": "보리떡으로 만든 술이네요. 맥주와는 다른 느낌이군요."
 }
